@@ -16,7 +16,7 @@ FF_DISTRIBUTION_ADDRESS = '0x83893c4a42f8654c2dd4ff7b4a7cd0e33ae8c859'   // -> a
 
 
 
-## Getting started
+## Getting starte
 - Make sure to have nodejs installed. This app is built using [Next.js](https://nextjs.org/learn/basics/create-nextjs-app) and [react](https://reactjs.org/docs/getting-started.html).
 - Run `npm install`
 - Create an account on [etherscan](https://etherscan.io/) then go to [your API keys](https://etherscan.io/myapikey) page and add a new API key there.
